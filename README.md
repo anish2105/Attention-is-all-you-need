@@ -11,6 +11,8 @@ This model has been trained for only 1 epoch. If you have sufficient computation
 ### Reference
 This implementation is based on the video tutorial by [Umar Jamil](https://www.youtube.com/watch?v=ISNdQcPhsts) ([Part 2](https://youtu.be/bCz4OMemCcA?si=hTBIo1JL9lYzrRE2)). You can find his GitHub repository under the username "hkproj."
 
+Additional resource to refer : [Blog](https://jalammar.github.io/illustrated-transformer/) and Krish Naik's NLP course
+
 ---
 
 ## Model Components
