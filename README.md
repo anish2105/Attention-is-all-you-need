@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an implementation of the Transformer model from scratch using PyTorch. The model follows the architecture described in the original "Attention is All You Need" paper and is designed for machine translation, specifically translating from English to Italian.
 
-![Transformer Model](Images/transformer.png)
+![Transformer Model](Images/transforrmer.png)
 
 ### Disclaimer
 This model has been trained for only 1 epoch. If you have sufficient computational power, it is recommended to train it for at least 20 epochs for better results.
