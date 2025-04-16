@@ -165,7 +165,7 @@ This function initializes all transformer components, including input embeddings
 ---
 
 ## Conclusion
-This implementation showcases the core components of a transformer for English-to-Italian translation. Experimenting with different configurations and training for more epochs can significantly improve results.
+This implementation showcases the core components of a transformer for English-to-Italian translation.
 
 
 
